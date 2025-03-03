@@ -1,0 +1,37 @@
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# System volume information
+System Volume Information/
+
+# Windows thumbnail cache files
+*.stackdump
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+
+
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+
