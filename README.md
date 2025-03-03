@@ -1,4 +1,4 @@
-# Backend ждя https://github.com/Sendrak2003/RuCinemaWeb 
+# Backend для https://github.com/Sendrak2003/RuCinemaWeb 
 Технологии
 В основе RuCinema лежат современные технологии: 
 На стороне бэкенда мы используем ASP.NET Core 6, Identity, JwtBearer
